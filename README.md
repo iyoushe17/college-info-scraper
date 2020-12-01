@@ -1,1 +1,1 @@
-### This is a scraper that I had built with ```Beautiful Soup``` that scraped college data from the website: www.studyguideindia.com
+ This is a scraper that I built with ```Beautiful Soup``` that scrapes college data from the website: www.studyguideindia.com
